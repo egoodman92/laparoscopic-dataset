@@ -11,3 +11,7 @@ Focused mainly on tools, and anatomy segmentations for now
 ### GCP buckets of data
 gs://intermountain-images-320/ - bucket of all images for preliminary annotation \
 gs://intermountain-videos-16/ - bucket of all videos
+
+<p align="center">
+  <img width="620" height="566" src="segmentation-example.jpg">
+</p>
