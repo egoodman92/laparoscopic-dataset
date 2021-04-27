@@ -9,5 +9,5 @@ Do not 'assume' you know what is behind something - no annotations should overla
 Focused mainly on tools, and anatomy segmentations for now
 
 ### GCP buckets of data
-gs://intermountain-images-320/ - bucket of all images for preliminary annotation
+gs://intermountain-images-320/ - bucket of all images for preliminary annotation \
 gs://intermountain-videos-16/ - bucket of all videos
